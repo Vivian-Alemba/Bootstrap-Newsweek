@@ -1,0 +1,16 @@
+body{
+    background: lightgray;
+}
+hr .divider{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 10px;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+img .grid2{
+    width:100%;
+}
+.myBackground{
+    background-color: #FF0000 !important;
+}
